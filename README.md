@@ -57,26 +57,26 @@ This project helps students and beginners:
 
 ## 📸 Project Screenshots
 
-### 🔐 Login Page
-![Login](Login.png)
+### 🔐 Login
+![Login](login.png)
 
 ### 📝 Register Page
-![Register](register.png)
+![Register Page](registerpage.png)
 
 ### 👤 User Dashboard
-![User Dashboard](user dashboard.png)
+![User Dashboard](userdashboard.png)
 
 ### 🎯 Career Match Page
-![Career Match](career match page.png)
+![Career Match Page](career_match_page.png)
 
 ### 📊 Skill Gap Analysis
-![Skill Gap Analysis](skill gap analysis.png)
+![Skill Gap Analysis](skill_gap_analysis.png)
 
 ### 💡 Recommendations
 ![Recommendations](Recommendations.png)
 
 ### 🛣️ Career Roadmaps
-![Career Roadmaps](career roadmaps.png)
+![Career Roadmaps](career_roadmaps.png)
 
 ### 🛡️ Admin Login Page
-![Admin Login](admin_login_page.png)
+![Admin Login Page](admin_login_page.png)
