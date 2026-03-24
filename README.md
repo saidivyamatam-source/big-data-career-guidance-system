@@ -37,7 +37,8 @@ A web-based application that helps users analyze their skills, identify career p
 ---
 
 ## 📷 Screens (Optional)
-(Add screenshots later if needed)
+### login page 
+![login]("C:\Users\NAVYA\OneDrive\Documents\Pictures\Saved Pictures\Screenshots\login.png")
 
 ---
 
