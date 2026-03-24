@@ -67,7 +67,7 @@ This project helps students and beginners:
 ![User Dashboard](userdashboard.png)
 
 ### 🎯 Career Match Page
-![Career Match Page](career_match_page.png)
+![Career Match Page](career_match _page.png)
 
 ### 📊 Skill Gap Analysis
 ![Skill Gap Analysis](skill_gap_analysis.png)
