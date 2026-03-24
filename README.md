@@ -36,11 +36,6 @@ A web-based application that helps users analyze their skills, identify career p
 
 ---
 
-## 📷 Screens (Optional)
-### login page 
-![login](login.png)
-
----
 
 ## 🎓 Purpose
 This project helps students and beginners:
@@ -59,3 +54,29 @@ This project helps students and beginners:
 - AI-based chatbot
 - Resume analyzer
 - Real-time job API integration
+
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login](Login.png)
+
+### 📝 Register Page
+![Register](register.png)
+
+### 👤 User Dashboard
+![User Dashboard](user dashboard.png)
+
+### 🎯 Career Match Page
+![Career Match](career match page.png)
+
+### 📊 Skill Gap Analysis
+![Skill Gap Analysis](skill gap analysis.png)
+
+### 💡 Recommendations
+![Recommendations](Recommendations.png)
+
+### 🛣️ Career Roadmaps
+![Career Roadmaps](career roadmaps.png)
+
+### 🛡️ Admin Login Page
+![Admin Login](admin_login_page.png)
