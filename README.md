@@ -67,7 +67,9 @@ This project helps students and beginners:
 ![User Dashboard](userdashboard.png)
 
 ### 🎯 Career Match Page
-![Career Match Page](career_match _page.)
+![Career Match Page](career_match_page.png).
+
+
 
 ### 📊 Skill Gap Analysis
 ![Skill Gap Analysis](skill_gap_analysis.png)
@@ -75,6 +77,7 @@ This project helps students and beginners:
 ### 💡 Recommendations
 ![Recommendations](Recommendations.png)
 
-
+### 🛣️ Career Roadmaps
+![Career Roadmaps](career_roadmaps.png)
 ### 🛡️ Admin Login Page
 ![Admin Login Page](admin_login_page.png)
